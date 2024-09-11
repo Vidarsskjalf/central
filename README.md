@@ -1,1 +1,3 @@
 # central
+
+### This application is a web-based tool built in Go that provides an interface for managing Active Directory (AD) user accounts. It allows IT administrators and helpdesk teams to authenticate users using AD credentials via LDAP, search for AD users, view their attributes, and reset passwords directly from the web interface. The tool leverages Go's robust networking capabilities, integrating LDAP for secure AD operations, and uses HTML templates with Tailwind CSS for a responsive and user-friendly interface. This project demonstrates expertise in web development, Go programming, LDAP integration, and user authentication.
